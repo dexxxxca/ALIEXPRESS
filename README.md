@@ -1,19 +1,2 @@
-ew# ALIEXPRESS
-DATABASE
-sss
-abfaf
-adbadb
-adbadb
-asdbadsb
-asbdab
-asdbab
-asdbdasb
-asbb
-asbdas
-asdbdb
-wvsda
-asdbdas
-asdbdsa
-abb
-vghj
-ft6
+ALIEXPRESS
+DATABASe
